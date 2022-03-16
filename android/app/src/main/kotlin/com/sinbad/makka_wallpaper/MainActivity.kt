@@ -1,0 +1,6 @@
+package com.sinbad.makka_wallpaper
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
